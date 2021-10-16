@@ -1,0 +1,16 @@
+C:\Users\kauek\git\DigitalInnovationOne\dio-desafios-de-projetos\Criando um APP simples de cadastro de séries em .NET\CRUD-Series\obj\Debug\net5.0\CRUD-Series.csproj.AssemblyReference.cache
+C:\Users\kauek\git\DigitalInnovationOne\dio-desafios-de-projetos\Criando um APP simples de cadastro de séries em .NET\CRUD-Series\obj\Debug\net5.0\CRUD-Series.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kauek\git\DigitalInnovationOne\dio-desafios-de-projetos\Criando um APP simples de cadastro de séries em .NET\CRUD-Series\obj\Debug\net5.0\CRUD-Series.AssemblyInfoInputs.cache
+C:\Users\kauek\git\DigitalInnovationOne\dio-desafios-de-projetos\Criando um APP simples de cadastro de séries em .NET\CRUD-Series\obj\Debug\net5.0\CRUD-Series.AssemblyInfo.cs
+C:\Users\kauek\git\DigitalInnovationOne\dio-desafios-de-projetos\Criando um APP simples de cadastro de séries em .NET\CRUD-Series\obj\Debug\net5.0\CRUD-Series.csproj.CoreCompileInputs.cache
+C:\Users\kauek\git\DigitalInnovationOne\dio-desafios-de-projetos\Criando um APP simples de cadastro de séries em .NET\CRUD-Series\bin\Debug\net5.0\CRUD-Series.exe
+C:\Users\kauek\git\DigitalInnovationOne\dio-desafios-de-projetos\Criando um APP simples de cadastro de séries em .NET\CRUD-Series\bin\Debug\net5.0\CRUD-Series.deps.json
+C:\Users\kauek\git\DigitalInnovationOne\dio-desafios-de-projetos\Criando um APP simples de cadastro de séries em .NET\CRUD-Series\bin\Debug\net5.0\CRUD-Series.runtimeconfig.json
+C:\Users\kauek\git\DigitalInnovationOne\dio-desafios-de-projetos\Criando um APP simples de cadastro de séries em .NET\CRUD-Series\bin\Debug\net5.0\CRUD-Series.runtimeconfig.dev.json
+C:\Users\kauek\git\DigitalInnovationOne\dio-desafios-de-projetos\Criando um APP simples de cadastro de séries em .NET\CRUD-Series\bin\Debug\net5.0\CRUD-Series.dll
+C:\Users\kauek\git\DigitalInnovationOne\dio-desafios-de-projetos\Criando um APP simples de cadastro de séries em .NET\CRUD-Series\bin\Debug\net5.0\ref\CRUD-Series.dll
+C:\Users\kauek\git\DigitalInnovationOne\dio-desafios-de-projetos\Criando um APP simples de cadastro de séries em .NET\CRUD-Series\bin\Debug\net5.0\CRUD-Series.pdb
+C:\Users\kauek\git\DigitalInnovationOne\dio-desafios-de-projetos\Criando um APP simples de cadastro de séries em .NET\CRUD-Series\obj\Debug\net5.0\CRUD-Series.dll
+C:\Users\kauek\git\DigitalInnovationOne\dio-desafios-de-projetos\Criando um APP simples de cadastro de séries em .NET\CRUD-Series\obj\Debug\net5.0\ref\CRUD-Series.dll
+C:\Users\kauek\git\DigitalInnovationOne\dio-desafios-de-projetos\Criando um APP simples de cadastro de séries em .NET\CRUD-Series\obj\Debug\net5.0\CRUD-Series.pdb
+C:\Users\kauek\git\DigitalInnovationOne\dio-desafios-de-projetos\Criando um APP simples de cadastro de séries em .NET\CRUD-Series\obj\Debug\net5.0\CRUD-Series.genruntimeconfig.cache
